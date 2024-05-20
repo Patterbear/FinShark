@@ -1,0 +1,7 @@
+INSERT INTO Stocks (Id, Symbol, CompanyName, Purchase, LastDiv, Industry, MarketCap)
+VALUES
+(0, 'MSFT', 'Microsoft Corporation', 422.17, 0.71, 'Technology', 3123000000000),
+(1, 'AAPL', 'Apple Inc.', 189.38, 0.53, 'Technology', 2911000000000),
+(2, 'GOOG', 'Alphabet Inc.', 175.65, 0.45, 'Technology', 2183000000000),
+(3, 'NIKE', 'NIKE, Inc.', 92.01, 1.61, 'Clothing', 139100000000),
+(4, 'MCD', 'McDonald's Corporation', 274.06, 2.45, 'Food', 196300000000);
